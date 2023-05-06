@@ -1,5 +1,5 @@
 {
-  "name": "native",
+  "name": "react-native-demo",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
