@@ -7,7 +7,7 @@ export default function Native() {
     <View style={styles.container}>
       <Text style={styles.header}>Native</Text>
       <Button
-        onClick={() => {
+        onPress={() => {
           console.log("Pressed!");
           alert("Pressed!");
         }}
